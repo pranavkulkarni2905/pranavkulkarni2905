@@ -12,11 +12,20 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Full Stack Web Development(Node.js and Express) and python backend development
+- 🌱 I’m currently learning **Full Stack Web Development(Node.js and Express) and Spring Boot**
+
+- 🔭 I’m currently working on **ERP Software and also Print Management Software for PCCoE Xerox Center**
 
 - 📫 How to reach me **pranavkulkarni1110@gmail.com**
 
+- 💬 Ask me about **Java,Servlets,JSP**
+
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+
+
+
+
+
 
 <br>
 
